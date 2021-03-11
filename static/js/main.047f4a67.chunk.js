@@ -1,0 +1,2 @@
+(this.webpackJsonpghpage=this.webpackJsonpghpage||[]).push([[0],{10:function(e,t,n){"use strict";n.r(t);var c=n(0),r=n.n(c),o=n(3),s=n.n(o),i=(n(8),n(1));var a=function(){return Object(i.jsx)("h1",{children:"Hello world!"})};s.a.render(Object(i.jsx)(r.a.StrictMode,{children:Object(i.jsx)(a,{})}),document.getElementById("root"))},8:function(e,t,n){}},[[10,1,2]]]);
+//# sourceMappingURL=main.047f4a67.chunk.js.map
